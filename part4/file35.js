@@ -12,5 +12,8 @@ const nums = [6,4,7,723,76,3,76]
 
 // console.log(nums.sort((a, b) => a - b)) // asc  in num
 // console.log(nums.sort((a, b) => b - a)) // desc  in num
-console.log(nums.indexOf(76))   
-console.log(nums.lastIndexOf(76))
+console.log(nums.indexOf(76))                   // first idx
+console.log(nums.lastIndexOf(76))               // last idx
+console.log(nums.includes(76))                 //  existance of value
+console.log(nums.slice(1, 3))    // give three element stating from 1  3 is excluded
+
