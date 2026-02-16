@@ -1,0 +1,10 @@
+let str = "suraj"
+// console.log(str.toUpperCase())
+// console.log(str.toLowerCase())
+// console.log(str.indexOf("a"))
+// console.log(str.lastIndexOf("a"))
+// console.log(str.includes("s"))
+// console.log(str.startsWith("s"))
+// console.log(str.endsWith("j"))
+console.log(str.slice(1, 3))
+console.log(str.substring(1,4))
