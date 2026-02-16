@@ -5,14 +5,14 @@
 // console.log(a, b, c)
 
 
-// const student = {
-//     name: "suraj",
-//     age: 21
-// }
+const student = {
+    name: "suraj",
+    age: 21
+}
 
-// const {name, age} = student
+const {name, age} = student
 
-// console.log(name, age)
+console.log(name, age)
 
 // const {name: n, age: m} = student
 
