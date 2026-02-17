@@ -32,8 +32,10 @@ function getStudentInfo(){
 )
 }
 
-function displayInfo(result){
-  console.log(result.name)
+function
+
+function displayInfo({name}){
+  console.log(name)
 }
 
 async function main() {
